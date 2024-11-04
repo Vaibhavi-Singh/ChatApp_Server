@@ -1,6 +1,6 @@
 ADMIN_SECRET_KEY = sample admin key
 
-JWT_SECRET=djgjkdshbgjkhfnjksdfhbnsjkdfsdhjfk
+JWT_SECRET=abcdefghijklmn
 
 
 NODE_ENV = PRODUCTION
